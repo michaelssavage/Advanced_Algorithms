@@ -1,5 +1,5 @@
 # Exercises with Nodes.
 
-- Node + Puzzle8Node ---> Puzzle8Node2
+- Node.py + Puzzle8Node.py ---> Puzzle8Node2.py
 
-- WordGameNode ---> readDictionary ---> WordGameNode2
+- WordGameNode.py ---> readDictionary.py ---> WordGameNode2.py
