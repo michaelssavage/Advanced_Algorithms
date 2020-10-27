@@ -1,4 +1,4 @@
-# Various exercises working on the last.
+# Exercises with Nodes.
 
 - Node + Puzzle8Node ---> Puzzle8Node2
 
