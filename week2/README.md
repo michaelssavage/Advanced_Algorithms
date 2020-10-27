@@ -1,5 +1,5 @@
-- Various exercises working on the last.
+# Various exercises working on the last.
 
-Node + Puzzle8Node ---> Puzzle8Node2
+- Node + Puzzle8Node ---> Puzzle8Node2
 
-WordGameNode ---> readDictionary ---> WordGameNode2
+- WordGameNode ---> readDictionary ---> WordGameNode2
