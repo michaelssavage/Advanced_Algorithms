@@ -1,2 +1,8 @@
-# advanced_alg
-Revision of some python exercises of advanced algorithms and ai search
+# advanced_algorithms
+Programs touching on different aspects of algorithms learned.
+
+1. Game Nodes
+2. Greedy Search
+3. Memoization
+4. Dynamic Programming
+5. Neural Networks
